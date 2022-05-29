@@ -1,1 +1,1 @@
-Creating a magic file
+creating directories
