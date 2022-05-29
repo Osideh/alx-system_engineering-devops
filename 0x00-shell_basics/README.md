@@ -1,1 +1,1 @@
-Listing of files even the hidden ones
+prints the type of the file
