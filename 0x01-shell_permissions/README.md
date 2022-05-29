@@ -1,1 +1,1 @@
-Changing grp owner
+changing owner and group owner
