@@ -1,1 +1,1 @@
-ctreating directory
+creating a directory
