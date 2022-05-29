@@ -1,1 +1,1 @@
-setting file mode
+Mirror permissions
