@@ -1,1 +1,1 @@
-all permissions to other users only
+setting file mode
