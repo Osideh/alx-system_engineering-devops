@@ -1,1 +1,1 @@
-hides bin
+Letters only
